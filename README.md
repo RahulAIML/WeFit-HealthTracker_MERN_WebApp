@@ -37,34 +37,25 @@
 
 ⚙️ Setup & Run Locally
 1️⃣ Clone the Repository
-bash
-Copy
-Edit
+```
 git clone https://github.com/your-username/wefit-health-tracker.git
 cd wefit-health-tracker
-
-2️⃣ Install Dependencies
- ```json
-Copy
-Edit
+```
+#2️⃣ Install Dependencies
+```
 npm install
 ```
 ### 3️⃣ Set up .env File
  ```json
-env
-Copy
-Edit
 MONGODB_URI=<your-mongodb-uri>
 PORT=5000
 ```
 ### 4️⃣ Run the App
- ```json
-Copy
-Edit
+```
 npm start
 ```
 5️⃣ Open in Browser
- ```json
+ ```
 Visit http://localhost:5000 to use the app.
 
 ###📸 Screenshots
