@@ -34,6 +34,7 @@
     "createdAt": "<date>"
   }
 
+---
 
 ⚙️ Setup & Run Locally
 1️⃣ Clone the Repository
@@ -41,6 +42,7 @@
 git clone https://github.com/your-username/wefit-health-tracker.git
 cd wefit-health-tracker
 ```
+---
 2️⃣ Install Dependencies
 ```
 npm install
@@ -58,6 +60,7 @@ npm start
  ```
 Visit http://localhost:5000 to use the app.
 ```
+
 📝 Future Improvements
 User authentication (JWT)
 
@@ -66,14 +69,17 @@ Charts and analytics for better insights
 Mobile-responsive design
 
 Reminder notifications
+---
 
 ### 👤 Author
 ### Buddhadeb Bhattacharya
 
 ### 📧 bhattacharyabuddhadeb147@gmail.com
+---
 
 ### 🗂️ License
 This project is licensed under the MIT License.
+---
 
 ### 📸 Screenshots
 ![Screenshot 2025-07-10 013617](https://github.com/user-attachments/assets/4436c6e7-e309-4680-a9f1-b884cfc8589a)
