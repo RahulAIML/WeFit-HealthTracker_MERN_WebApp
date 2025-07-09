@@ -34,22 +34,16 @@
     "createdAt": "<date>"
   }![Screenshot 2025-07-10 013554](https://github.com/user-attachments/assets/09255331-3173-4500-9f1b-ff331d28526e)
 
-###  Screenshots
-![Screenshot 2025-07-10 013617](https://github.com/user-attachments/assets/4436c6e7-e309-4680-a9f1-b884cfc8589a)
-![Screenshot 2025-07-10 013659](https://github.com/user-attachments/assets/703af99d-37c0-4d48-af68-db8c324816af)
-![Screenshot 2025-07-10 013912](https://github.com/user-attachments/assets/e466af73-08b3-43ae-b924-1f594dbab5e4)
-![Screenshot 2025-07-10 014036](https://github.com/user-attachments/assets/862cd6ef-c6a4-4b4a-b240-357062a6f5a5)
-![Screenshot 2025-07-10 014052](https://github.com/user-attachments/assets/c53b07c8-9fb6-4fb2-b4f5-65a56bfd5f69)
 
-## ⚙️ Setup & Run Locally
-##1️⃣ Clone the Repository
+⚙️ Setup & Run Locally
+1️⃣ Clone the Repository
  ```json
 Copy
 Edit
 git clone https://github.com/your-username/wefit-health-tracker.git
 cd wefit-health-tracker
 ```
-### 2️⃣ Install Dependencies
+2️⃣ Install Dependencies
  ```json
 Copy
 Edit
@@ -69,13 +63,13 @@ Copy
 Edit
 npm start
 ```
-###5️⃣ Open in Browser
+5️⃣ Open in Browser
  ```json
 Visit http://localhost:5000 to use the app.
 ```
 ###📸 Screenshots
 
-### 📝 Future Improvements
+📝 Future Improvements
 User authentication (JWT)
 
 Charts and analytics for better insights
@@ -92,3 +86,9 @@ Reminder notifications
 ### 🗂️ License
 This project is licensed under the MIT License.
 
+###  Screenshots
+![Screenshot 2025-07-10 013617](https://github.com/user-attachments/assets/4436c6e7-e309-4680-a9f1-b884cfc8589a)
+![Screenshot 2025-07-10 013659](https://github.com/user-attachments/assets/703af99d-37c0-4d48-af68-db8c324816af)
+![Screenshot 2025-07-10 013912](https://github.com/user-attachments/assets/e466af73-08b3-43ae-b924-1f594dbab5e4)
+![Screenshot 2025-07-10 014036](https://github.com/user-attachments/assets/862cd6ef-c6a4-4b4a-b240-357062a6f5a5)
+![Screenshot 2025-07-10 014052](https://github.com/user-attachments/assets/c53b07c8-9fb6-4fb2-b4f5-65a56bfd5f69)
