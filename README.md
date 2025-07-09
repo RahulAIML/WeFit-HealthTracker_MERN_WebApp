@@ -60,6 +60,7 @@ npm start
  ```
 Visit http://localhost:5000 to use the app.
 ```
+---
 
 📝 Future Improvements
 User authentication (JWT)
