@@ -27,7 +27,7 @@
   Stores user data:
   ```json
   {
-    "_id": ObjectId,
+    "_id ": "ObjectId",
     "name": "User Name",
     "email": "user@example.com",
     "password": "<hashed_password>",
@@ -41,12 +41,12 @@
 git clone https://github.com/your-username/wefit-health-tracker.git
 cd wefit-health-tracker
 ```
-#2️⃣ Install Dependencies
+2️⃣ Install Dependencies
 ```
 npm install
 ```
-### 3️⃣ Set up .env File
- ```json
+3️⃣ Set up .env File
+ ```
 MONGODB_URI=<your-mongodb-uri>
 PORT=5000
 ```
