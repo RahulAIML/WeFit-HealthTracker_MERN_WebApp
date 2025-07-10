@@ -39,7 +39,7 @@
 ⚙️ Setup & Run Locally
 1️⃣ Clone the Repository
 ```
-git clone https://github.com/your-username/wefit-health-tracker.git
+git clone https://github.com/RahulAIML/wefit-health-tracker.git
 cd wefit-health-tracker
 ```
 ---
