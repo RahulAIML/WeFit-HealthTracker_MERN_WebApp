@@ -77,11 +77,6 @@ Reminder notifications
 
 ### 📧 bhattacharyabuddhadeb147@gmail.com
 ---
-
-### 🗂️ License
-This project is licensed under the MIT License.
----
-
 ### 📸 Screenshots
 ![Screenshot 2025-07-10 013617](https://github.com/user-attachments/assets/4436c6e7-e309-4680-a9f1-b884cfc8589a)
 ![Screenshot 2025-07-10 013659](https://github.com/user-attachments/assets/703af99d-37c0-4d48-af68-db8c324816af)
